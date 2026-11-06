@@ -1,2 +1,3 @@
-# AgentPlat packages this default favicon directly from source without LFS hydration.
+# Public web images must be available directly in a Git checkout for deployment.
 favicon.png -filter -diff -merge -text
+images/borehole-drilling-truck.jpg -filter -diff -merge -text
